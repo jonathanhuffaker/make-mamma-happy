@@ -1,6 +1,6 @@
 ﻿# make-mamma-happy
  
- Make Mamma Happy App is my back-end/final capstone project for the Evening Cohort 2 class at NSS.  Motivation for this app came about as I have an expecting wife who is always adding additional tasks to my busy schedule.  This is more than just a simple to do list as I will be incorporating Twillio API for notifying my wife via text (SMS) to update her on the status or completion of the tasks at hand.  This will also hopefully prevent as many back and forth texts/discussions from our hectic lives when away from home.
+ Make Mamma Happy App is a side project I will be working on outside of NSS that was almost chosen as my final capstone project.  Motivation for this app came about as I have an expecting wife who is always adding additional tasks to my busy schedule.  This is more than just a simple to do list as I will be incorporating Twillio API for notifying my wife via text (SMS) to update her on the status or completion of the tasks at hand.  This will also hopefully prevent as many back and forth texts/discussions from our hectic lives when away from home.
 
 Features
 -User can assign tasks to self or to other registered user
